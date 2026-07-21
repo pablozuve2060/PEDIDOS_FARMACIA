@@ -5,10 +5,11 @@ import secrets
 from models.medicamento import Medicamento
 from models.pedido import Pedido
 
-RUTA_MEDICAMENTOS = os.path.join("data", "medicamentos.json")
-RUTA_USUARIOS = os.path.join("data", "usuarios.json")
-RUTA_COLA_PEDIDOS = os.path.join("data", "cola_pedidos.json")
-RUTA_HISTORIAL_PEDIDOS = os.path.join("data", "historial_pedidos.json")
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
+RUTA_MEDICAMENTOS = os.path.join(BASE_DIR, "data", "medicamentos.json")
+RUTA_USUARIOS = os.path.join(BASE_DIR, "data", "usuarios.json")
+RUTA_COLA_PEDIDOS = os.path.join(BASE_DIR, "data", "cola_pedidos.json")
+RUTA_HISTORIAL_PEDIDOS = os.path.join(BASE_DIR, "data", "historial_pedidos.json")
 
 
 def guardar_medicamentos(lista_enlazada):
