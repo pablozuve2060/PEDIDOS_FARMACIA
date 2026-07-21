@@ -84,6 +84,4 @@ revertir (LIFO) el movimiento más reciente: se restaura el stock anterior y se
 registra en el kardex un movimiento inverso de auditoría.
 
 ## Repositorio
-
-> Reemplazar con el enlace real antes de la entrega:
-> `https://github.com/<usuario>/sistema-farmacia`
+https://github.com/pablozuve2060/PEDIDOS_FARMACIA.git
