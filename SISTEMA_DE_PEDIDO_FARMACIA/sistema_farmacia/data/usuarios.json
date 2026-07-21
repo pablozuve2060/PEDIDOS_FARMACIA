@@ -10,7 +10,7 @@
         "usuario": "vendedor",
         "rol": "vendedor",
         "nombre": "Cajero",
-        "clave_hash": "9a2e7e829539ff8f076dee11ddcab112b645398451602981840466256512b9ad",
-        "salt": "6a02c6ca14ac7f44eb21df18bbbb70e0"
+        "clave_hash": "7107722df5e0850166145375bd87e5818d77601a1157a15c8374d853af99da61",
+        "salt": "871d179c8b7479214a7a99feef46b162"
     }
 ]
