@@ -1,0 +1,32 @@
+[
+    {
+        "codigo": "MED001",
+        "nombre": "Paracetamol 500mg",
+        "principio_activo": "Paracetamol",
+        "precio": 1.5,
+        "stock": 120,
+        "categoria": "Analgésico",
+        "fecha_vencimiento": null,
+        "ubicacion": "A-01"
+    },
+    {
+        "codigo": "MED002",
+        "nombre": "Ibuprofeno 400mg",
+        "principio_activo": "Ibuprofeno",
+        "precio": 2.0,
+        "stock": 8,
+        "categoria": "Antiinflamatorio",
+        "fecha_vencimiento": null,
+        "ubicacion": "B-01"
+    },
+    {
+        "codigo": "MED003",
+        "nombre": "Amoxicilina 500mg",
+        "principio_activo": "Amoxicilina",
+        "precio": 3.75,
+        "stock": 45,
+        "categoria": "Antibiótico",
+        "fecha_vencimiento": null,
+        "ubicacion": "C-01"
+    }
+]
